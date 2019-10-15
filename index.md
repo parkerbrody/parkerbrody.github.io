@@ -14,7 +14,7 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1> header </h1>
+        		<h1> Welcome </h1>
 				<p> About me <a href="/about">more about me...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
