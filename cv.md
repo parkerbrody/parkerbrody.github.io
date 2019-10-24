@@ -15,7 +15,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1> CV section </h1>
-				<p> The current version of my CV as of October 2019 is available <a href="https://parkerbrody.github.io/CV_brody.pdf">here</a></p>
+				<p> The current version of my CV as of October 2019 is available <a href="parkerbrody.github.io/CV_Brody.pdf" target="_blank">here.</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
