@@ -1,3 +1,6 @@
+.container {
+    max-width: 90%;
+}
 body {
     margin: 60px auto;
     width: 80%;
