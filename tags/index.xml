@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | parker brody</title>
+    <link>https://parkerbrody.github.io/tags/</link>
+      <atom:link href="https://parkerbrody.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://parkerbrody.github.io/img/icon.jpg</url>
+      <title>Tags</title>
+      <link>https://parkerbrody.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Multiple Exponence</title>
+      <link>https://parkerbrody.github.io/tags/multiple-exponence/</link>
+      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://parkerbrody.github.io/tags/multiple-exponence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetics</title>
+      <link>https://parkerbrody.github.io/tags/phylogenetics/</link>
+      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://parkerbrody.github.io/tags/phylogenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://parkerbrody.github.io/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://parkerbrody.github.io/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation</title>
+      <link>https://parkerbrody.github.io/tags/segmentation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://parkerbrody.github.io/tags/segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://parkerbrody.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://parkerbrody.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
