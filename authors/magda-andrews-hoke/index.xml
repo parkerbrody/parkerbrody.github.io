@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magda Andrews-Hoke | parker brody</title>
+    <link>https://parkerbrody.github.io/authors/magda-andrews-hoke/</link>
+      <atom:link href="https://parkerbrody.github.io/authors/magda-andrews-hoke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Magda Andrews-Hoke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://parkerbrody.github.io/img/icon.jpg</url>
+      <title>Magda Andrews-Hoke</title>
+      <link>https://parkerbrody.github.io/authors/magda-andrews-hoke/</link>
+    </image>
+    
+    <item>
+      <title>Word Order</title>
+      <link>https://parkerbrody.github.io/publication/paper3/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://parkerbrody.github.io/publication/paper3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

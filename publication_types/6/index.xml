@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | parker brody</title>
+    <link>https://parkerbrody.github.io/publication_types/6/</link>
+      <atom:link href="https://parkerbrody.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://parkerbrody.github.io/img/icon.jpg</url>
+      <title>6</title>
+      <link>https://parkerbrody.github.io/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>Adjectives &amp; Adverbs</title>
+      <link>https://parkerbrody.github.io/publication/paper4/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://parkerbrody.github.io/publication/paper4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Order</title>
+      <link>https://parkerbrody.github.io/publication/paper3/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://parkerbrody.github.io/publication/paper3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological agreement</title>
+      <link>https://parkerbrody.github.io/publication/paper2/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://parkerbrody.github.io/publication/paper2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
