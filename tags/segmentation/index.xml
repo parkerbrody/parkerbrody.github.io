@@ -5,7 +5,7 @@
     <link>https://parkerbrody.github.io/tags/segmentation/</link>
       <atom:link href="https://parkerbrody.github.io/tags/segmentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Segmentation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://parkerbrody.github.io/img/icon.jpg</url>
       <title>Segmentation</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Computational tools for low-resource languages</title>
       <link>https://parkerbrody.github.io/project/2segmentation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://parkerbrody.github.io/project/2segmentation/</guid>
       <description>&lt;p&gt;A major component of my research interests is the application of modern computational tools for linguistic analysis to new domains of inquiry. This manifested itself in a recent research project, in which I investigated the viability of various stochastic and computational modeling techniques to aid in the documentation and description of low-resource languages, including finite-state representations of morphology and various approaches to supervised and unsupervised morphological segmentation of unsegmented text.&lt;/p&gt;
 

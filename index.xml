@@ -131,24 +131,9 @@
     </item>
     
     <item>
-      <title>Multiple Exponence in Kiranti</title>
-      <link>https://parkerbrody.github.io/project/3multiple-exponence/</link>
-      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://parkerbrody.github.io/project/3multiple-exponence/</guid>
-      <description>&lt;p&gt;Inspired by an interest in the diachronic origins of uncommon typological structure, I conducted research into the historical development of multiple exponence &amp;ndash; the realization of the same grammatical information in multiple places within an inflected word &amp;ndash; among the Kiranti (Tibeto-Burman) language family. This repetition of inflectional material is a prima facie challenge for the notion that morphology is best analyzed as a one-to-one mapping between a segmentable piece of a word and the grammatical information it encodes, an assumption that is the hallmark of many theories of inflection. Instead, the attestation of multiple exponence in a not insignificant number of unrelated languages speaks to the strength of theories of morphology that view the association between morphosyntactic properties and their realizations as many-to-many.&lt;/p&gt;
-
-&lt;p&gt;My research was built on the idea that uncommon morphology can be accounted for at the intersection of typology and ordinary diachronic processes of language change. I devised a comparative study of the Kiranti languages, a group of roughly 30 Tibeto-Burman languages spoken in Nepal and along the India-Nepal border. Kiranti provides a useful vehicle for examination of the diachronic development of multiple exponence, in that the family contains a major primary historical split which coincides with presence and absence of the feature in the modern languages.&lt;/p&gt;
-
-&lt;p&gt;Comparative evidence from 17 Kiranti languages showed that redundant agreement inflection in periphrastic constructions, itself a typological feature of the family that is relatively uncommon cross-linguistically, serves as a prerequisite for multiple exponence. Moreover, I demonstrated the existence of cognacy between certain category markers in languages with multiple exponence and independent auxiliaries in languages without multiple exponence. Based on these findings, I argued that multiple exponence in these languages developed as the result of coalescence or univerbation of periphrastic forms in the Central and Eastern branches of the family. Interestingly,some Kiranti languages show evidence of multiple cycles of this process, resulting in modern synthetic forms with as many as four or more repetitions of the same inflectional material.&lt;/p&gt;
-
-&lt;p&gt;While my findings are specific to the Kiranti group, future extension this line of research would involve investigating whether the analysis can be extended to additional languages and language families showing evidence of multiple exponence. Preliminary reading on multiple exponence in Ibibio (Niger-Congo) indicates the plausibility of a similar explanation.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Pama-Nyungan verb classes</title>
       <link>https://parkerbrody.github.io/project/1pama-nyungan/</link>
-      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://parkerbrody.github.io/project/1pama-nyungan/</guid>
       <description>&lt;p&gt;My current research project was born of my interest in the extension of modern computational methods to new areas of linguistic investigation. My dissertation provides an account of the evolution over time of verb conjugation classes in the Pama-Nyungan language family of Australia using Bayesian phylogenetic methods originally designed to model biological evolution. While the study of linguistic phylogenetics is relatively young, research has demonstrated the viability of the endeavor.&lt;/p&gt;
 
@@ -641,6 +626,21 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Multiple Exponence in Kiranti</title>
+      <link>https://parkerbrody.github.io/project/3multiple-exponence/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://parkerbrody.github.io/project/3multiple-exponence/</guid>
+      <description>&lt;p&gt;Inspired by an interest in the diachronic origins of uncommon typological structure, I conducted research into the historical development of multiple exponence &amp;ndash; the realization of the same grammatical information in multiple places within an inflected word &amp;ndash; among the Kiranti (Tibeto-Burman) language family. This repetition of inflectional material is a prima facie challenge for the notion that morphology is best analyzed as a one-to-one mapping between a segmentable piece of a word and the grammatical information it encodes, an assumption that is the hallmark of many theories of inflection. Instead, the attestation of multiple exponence in a not insignificant number of unrelated languages speaks to the strength of theories of morphology that view the association between morphosyntactic properties and their realizations as many-to-many.&lt;/p&gt;
+
+&lt;p&gt;My research was built on the idea that uncommon morphology can be accounted for at the intersection of typology and ordinary diachronic processes of language change. I devised a comparative study of the Kiranti languages, a group of roughly 30 Tibeto-Burman languages spoken in Nepal and along the India-Nepal border. Kiranti provides a useful vehicle for examination of the diachronic development of multiple exponence, in that the family contains a major primary historical split which coincides with presence and absence of the feature in the modern languages.&lt;/p&gt;
+
+&lt;p&gt;Comparative evidence from 17 Kiranti languages showed that redundant agreement inflection in periphrastic constructions, itself a typological feature of the family that is relatively uncommon cross-linguistically, serves as a prerequisite for multiple exponence. Moreover, I demonstrated the existence of cognacy between certain category markers in languages with multiple exponence and independent auxiliaries in languages without multiple exponence. Based on these findings, I argued that multiple exponence in these languages developed as the result of coalescence or univerbation of periphrastic forms in the Central and Eastern branches of the family. Interestingly,some Kiranti languages show evidence of multiple cycles of this process, resulting in modern synthetic forms with as many as four or more repetitions of the same inflectional material.&lt;/p&gt;
+
+&lt;p&gt;While my findings are specific to the Kiranti group, future extension this line of research would involve investigating whether the analysis can be extended to additional languages and language families showing evidence of multiple exponence. Preliminary reading on multiple exponence in Ibibio (Niger-Congo) indicates the plausibility of a similar explanation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Curriculum Vitae</title>
       <link>https://parkerbrody.github.io/cv/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
@@ -652,7 +652,7 @@ $$&lt;/p&gt;
     <item>
       <title>Computational tools for low-resource languages</title>
       <link>https://parkerbrody.github.io/project/2segmentation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://parkerbrody.github.io/project/2segmentation/</guid>
       <description>&lt;p&gt;A major component of my research interests is the application of modern computational tools for linguistic analysis to new domains of inquiry. This manifested itself in a recent research project, in which I investigated the viability of various stochastic and computational modeling techniques to aid in the documentation and description of low-resource languages, including finite-state representations of morphology and various approaches to supervised and unsupervised morphological segmentation of unsegmented text.&lt;/p&gt;
 

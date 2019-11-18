@@ -5,7 +5,7 @@
     <link>https://parkerbrody.github.io/tags/</link>
       <atom:link href="https://parkerbrody.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://parkerbrody.github.io/img/icon.jpg</url>
       <title>Tags</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Multiple Exponence</title>
-      <link>https://parkerbrody.github.io/tags/multiple-exponence/</link>
-      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://parkerbrody.github.io/tags/multiple-exponence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Phylogenetics</title>
       <link>https://parkerbrody.github.io/tags/phylogenetics/</link>
-      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://parkerbrody.github.io/tags/phylogenetics/</guid>
       <description></description>
     </item>
@@ -37,9 +29,17 @@
     </item>
     
     <item>
+      <title>Multiple Exponence</title>
+      <link>https://parkerbrody.github.io/tags/multiple-exponence/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://parkerbrody.github.io/tags/multiple-exponence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Segmentation</title>
       <link>https://parkerbrody.github.io/tags/segmentation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://parkerbrody.github.io/tags/segmentation/</guid>
       <description></description>
     </item>
